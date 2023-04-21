@@ -1,2 +1,2 @@
 # Computing-Architecture
-Assembly, VHDL projects (Calculator advanced, Calculator simple, Planets blinking, Sensor, Traffic lights)
+Assembly, VHDL projects (Calculator simple, Calculator advanced, Planets blinking, Sensor, Traffic lights)
